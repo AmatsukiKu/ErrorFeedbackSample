@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ErrorFeedbackSample</string>
+
+    <!-- 画面に依存しない共通エラー -->
+    <string name="error_reload">再読み込みをする</string>
+    <string name="error_network">ネットワーク設定を確認してください</string>
+    <string name="error_timeout">タイムアウトしました\n時間をおいて再度実行してください</string>
+    <string name="error_connection">通信に失敗しました</string>
+    <string name="error_not_found">該当する情報が見つかりませんでした</string>
+    <string name="error_not_acceptable">リクエストを受け付けられませんでした</string>
+    <string name="error_conflict">すでに登録されています</string>
+    <string name="error_no_user_id">ユーザーidの取得に失敗しました</string>
+</resources>
